@@ -1,0 +1,81 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "@types/pixi.js",
+        "scope": "@types",
+        "escapedName": "@types%2fpixi.js",
+        "name": "@types/pixi.js",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "D:\\workspace\\minesweeper"
+    ]
+  ],
+  "_from": "@types/pixi.js@latest",
+  "_id": "@types/pixi.js@4.6.3",
+  "_inCache": true,
+  "_location": "/@types/pixi.js",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/pixi.js-4.6.3.tgz_1515167107935_0.5401885788887739"
+  },
+  "_npmUser": {
+    "name": "types",
+    "email": "ts-npm-types@microsoft.com"
+  },
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "@types/pixi.js",
+    "scope": "@types",
+    "escapedName": "@types%2fpixi.js",
+    "name": "@types/pixi.js",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/pixi.js/-/pixi.js-4.6.3.tgz",
+  "_shasum": "cb285de08068f71c0d9b3ffaea7c5bd39d9e472a",
+  "_shrinkwrap": null,
+  "_spec": "@types/pixi.js",
+  "_where": "D:\\workspace\\minesweeper",
+  "contributors": [
+    {
+      "name": "clark-stevenson",
+      "url": "https://github.com/pixijs/pixi-typescript"
+    }
+  ],
+  "dependencies": {},
+  "description": "TypeScript definitions for Pixi.js",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-6CK+tAU3JpI+5oKOW3n4j7lbG66iTuqnOi+ZAjFV3LTrmXG2OnxegUWs81qJlUtXXoUhXNHtEfdGydXWiI76Lw==",
+    "shasum": "cb285de08068f71c0d9b3ffaea7c5bd39d9e472a",
+    "tarball": "https://registry.npmjs.org/@types/pixi.js/-/pixi.js-4.6.3.tgz"
+  },
+  "license": "MIT",
+  "main": "",
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ts-npm-types@microsoft.com"
+    }
+  ],
+  "name": "@types/pixi.js",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.1",
+  "typesPublisherContentHash": "a07884a4e7354679998871fdf1da1bd6090e4534dd8e31419b3fbdfe8c534c70",
+  "version": "4.6.3"
+}
